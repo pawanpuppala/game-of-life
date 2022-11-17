@@ -21,8 +21,6 @@
         <jelastic.environment>wakaleo</jelastic.environment>
     </properties>
 
-    <project ...>
-  ...
   <distributionManagement>
     <repository>
       <id>github</id>
